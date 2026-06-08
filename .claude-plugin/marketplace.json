@@ -1,0 +1,15 @@
+{
+  "name": "claude-nexus",
+  "owner": {
+    "name": "Lucas Correia",
+    "email": "lucascorreia-dev@proton.me"
+  },
+  "description": "Shared Claude Code agents and skills",
+  "plugins": [
+    {
+      "name": "claude-nexus",
+      "source": "./",
+      "description": "Shared Claude Code agents and skills"
+    }
+  ]
+}

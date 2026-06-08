@@ -1,0 +1,7 @@
+# Local dev-only symlinks for dogfooding agents/skills inside this repo.
+# Consumers load these via .claude-plugin/plugin.json, not these links.
+/.claude/agents
+/.claude/skills
+
+# Windows "downloaded from internet" metadata
+*Zone.Identifier

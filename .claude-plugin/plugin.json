@@ -1,0 +1,9 @@
+{
+  "name": "claude-nexus",
+  "version": "1.0.0",
+  "description": "Shared Claude Code agents and skills",
+  "author": {
+    "name": "Lucas Correia",
+    "email": "lucascorreia-dev@proton.me"
+  }
+}
