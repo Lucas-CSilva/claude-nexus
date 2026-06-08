@@ -42,14 +42,14 @@ This repo is a Claude Code plugin served from its own marketplace.
 ### From GitHub (syncs across machines)
 
 ```
-/plugin marketplace add lucascorreia-dev/claude-nexus
+/plugin marketplace add Lucas-CSilva/claude-nexus
 /plugin install claude-nexus@claude-nexus
 ```
 
 ### From a local clone
 
 ```bash
-git clone https://github.com/lucascorreia-dev/claude-nexus.git
+git clone https://github.com/Lucas-CSilva/claude-nexus.git
 ```
 
 Then, inside Claude Code, point the marketplace at the cloned directory:
